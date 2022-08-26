@@ -9,16 +9,27 @@ HOW TO INSTALL:
 
 FEATURE LIST:
 Leave
+
 Refresh Photon
+
 Platforms
+
 Sticky Platforms
+
 Invisible Platforms
+
 Noclip (left controller trigger)
+
 Fly Monke
+
 Speed Monke
+
 Beacon ESP
+
 Tag Gun
+
 No Tag Lag
+
 
 
 Please contact me if it doesn't work at pdpbusiness@re6l.com.
