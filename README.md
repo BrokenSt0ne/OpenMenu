@@ -7,7 +7,7 @@ HOW TO INSTALL:
 3. Place OpenMenu1.0.dll in BepInEx/plugins.
 4. Start the game and hold X.
 
-FEATURE LIST
+FEATURE LIST:
 Leave
 Refresh Photon
 Platforms
